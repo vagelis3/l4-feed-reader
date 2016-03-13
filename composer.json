@@ -1,5 +1,5 @@
 {
-    "name": "awjudd/feed-reader",
+    "name": "awjudd/feed-reader": "1.2.*",
     "description": "A simple RSS feed reader for Laravel 5",
     "license": "MIT",
     "authors": [
